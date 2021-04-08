@@ -1,0 +1,15 @@
+.posts {
+    padding: 10px;
+}
+
+.textarea {
+    resize: vertical;
+}
+
+.addPost {
+    margin-bottom: 20px;
+    line-height: 20px;
+    border-radius: 3px;
+    color: #eee;
+    background-color: rgb(73, 178, 197);
+}

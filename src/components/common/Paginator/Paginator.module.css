@@ -1,0 +1,39 @@
+.selectedPage {
+    font-weight: bold;
+}
+
+.selectedPage {
+    font-weight: bold;
+}
+
+.pageWrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pageWrap span {
+    cursor: pointer;
+    margin: 5px;
+}
+
+.btn {
+    margin: 5px;
+    background-color: green;
+}
+
+.btn.btnLeft {
+    display: none;
+}
+
+.btn.btnLeft.btnActive {
+    display: block;
+}
+
+.btn.btnRight {
+    display: none;
+}
+
+.btn.btnRight.btnActive {
+    display: block;
+}

@@ -1,0 +1,53 @@
+.nav {
+  grid-area: nav;
+  background-color: lightblue;
+  padding: 20px;
+  color: #fff;
+  border-right: 1px solid #000;
+}
+
+.item a {
+  color: #fff;
+  transition: color 0.2s ease;
+}
+
+.item a.active {
+  color: orange;
+}
+
+.item a:hover {
+  color: #000;
+}
+
+.settings {
+  margin-top: 20px;
+}
+
+.friends {
+  margin-top: 50px;
+}
+
+.friendsWrap {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -5px;
+}
+
+.name {
+  font-size: 14px;
+  text-align: center;
+  margin-top: 5px;
+}
+
+.friendsBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5px;
+}
+
+.friendsBlock img {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}

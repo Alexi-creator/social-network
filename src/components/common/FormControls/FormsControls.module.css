@@ -1,0 +1,23 @@
+.button {
+    line-height: 20px;
+    border-radius: 3px;
+    color: #eee;
+    background-color: rgb(73, 178, 197);
+}
+
+.formControl.error input,
+.formControl.error textarea {
+    border: 1px solid red;
+}
+
+.formControl.error span {
+    color: red;
+}
+
+.formSummaryError {
+    width: 150px;
+    display: inline-flex;
+    border: 1px solid red;
+    padding: 5px;
+    color: red;
+}

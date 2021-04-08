@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f51e8ddb-c0ae-4831-b64a-bd6bd9c0d6ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../api/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Dialogs/DialogItem/DialogItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Dialogs/Dialogs.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Dialogs/DialogsContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Dialogs/Message/Message.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Header/HeaderContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Login/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Music/Music.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Music/Music.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Navbar/Friends.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Navbar/FriendsItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Profile/MyPosts/MyPostsContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Profile/MyPosts/ProfileInfo/ProfileDataForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Profile/MyPosts/ProfileInfo/ProfileInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Profile/MyPosts/ProfileInfo/ProfileInfo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Profile/MyPosts/ProfileInfo/ProfileStatusClass.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Profile/MyPosts/ProfileInfo/ProfileStatusClass.test.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Profile/MyPosts/ProfileInfo/ProfileStatusWithHooks.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Profile/ProfileContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Settings/Settings.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Users/User.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Users/User.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Users/Users.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/Users/UsersContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/common/FormControls/FormsControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/common/FormControls/FormsControls.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/common/Paginator/Paginator.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/common/Paginator/Paginator.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../components/common/Preloader/Preloader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/withAuthRedirect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/withSuspense.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/app-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/auth-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/dialogs-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/profile-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/redux-store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/sidebar-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/users-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/users-selectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utils/object-helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utils/validators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1qf3vjlwfh0aF1hCPN4mEUeTY7U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../my-app-typescript" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f51e8ddb-c0ae-4831-b64a-bd6bd9c0d6ab" name="Default Changelist" comment="" />
+      <created>1617457049635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617457049635</updated>
+      <workItem from="1617457052199" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1171" y="274" key="FileChooserDialogImpl" timestamp="1617457104036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1171" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617457104036" />
+  </component>
+</project>
